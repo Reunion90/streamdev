@@ -1,0 +1,891 @@
+2025-06-27T20:33:06.664Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T20:33:06.922Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T20:33:06.924Z [LOG] Stream scheduler initialized
+2025-06-27T20:33:06.932Z [LOG] Checking for scheduled streams (2025-06-27T20:33:06.932Z to 2025-06-27T20:33:16.932Z)
+2025-06-27T20:33:06.960Z [LOG] StreamFlow running at:
+2025-06-27T20:33:06.962Z [LOG]   http://172.18.0.2:7575
+2025-06-27T20:33:07.012Z [LOG] Stream scheduler initialized
+2025-06-27T20:33:07.013Z [LOG] Checking for scheduled streams (2025-06-27T20:33:07.013Z to 2025-06-27T20:33:17.013Z)
+2025-06-27T20:33:07.022Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T20:33:07.037Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T20:33:16.777Z [LOG] Checking for scheduled streams (2025-06-27T20:33:16.777Z to 2025-06-27T20:33:26.777Z)
+2025-06-27T20:33:16.857Z [LOG] Checking for scheduled streams (2025-06-27T20:33:16.857Z to 2025-06-27T20:33:26.857Z)
+2025-06-27T20:33:26.789Z [LOG] Checking for scheduled streams (2025-06-27T20:33:26.789Z to 2025-06-27T20:33:36.789Z)
+2025-06-27T20:33:26.857Z [LOG] Checking for scheduled streams (2025-06-27T20:33:26.857Z to 2025-06-27T20:33:36.857Z)
+2025-06-27T20:33:36.800Z [LOG] Checking for scheduled streams (2025-06-27T20:33:36.800Z to 2025-06-27T20:33:46.800Z)
+2025-06-27T20:33:36.858Z [LOG] Checking for scheduled streams (2025-06-27T20:33:36.858Z to 2025-06-27T20:33:46.858Z)
+2025-06-27T20:33:46.664Z [LOG] Checking for scheduled streams (2025-06-27T20:33:46.664Z to 2025-06-27T20:33:56.664Z)
+2025-06-27T20:33:46.716Z [LOG] Checking for scheduled streams (2025-06-27T20:33:46.716Z to 2025-06-27T20:33:56.716Z)
+2025-06-27T20:33:56.675Z [LOG] Checking for scheduled streams (2025-06-27T20:33:56.674Z to 2025-06-27T20:34:06.674Z)
+2025-06-27T20:33:56.716Z [LOG] Checking for scheduled streams (2025-06-27T20:33:56.716Z to 2025-06-27T20:34:06.716Z)
+2025-06-27T20:34:06.674Z [LOG] Checking for scheduled streams (2025-06-27T20:34:06.674Z to 2025-06-27T20:34:16.674Z)
+2025-06-27T20:34:06.716Z [LOG] Checking for scheduled streams (2025-06-27T20:34:06.716Z to 2025-06-27T20:34:16.716Z)
+2025-06-27T20:34:16.516Z [LOG] Checking for scheduled streams (2025-06-27T20:34:16.516Z to 2025-06-27T20:34:26.516Z)
+2025-06-27T20:34:16.549Z [LOG] Checking for scheduled streams (2025-06-27T20:34:16.549Z to 2025-06-27T20:34:26.549Z)
+2025-06-27T20:34:21.246Z [ERROR] Error: secret option required for sessions
+    at session (/app/node_modules/express-session/index.js:204:12)
+    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/app/node_modules/router/index.js:342:13)
+    at /app/node_modules/router/index.js:297:9
+    at processParams (/app/node_modules/router/index.js:582:12)
+    at next (/app/node_modules/router/index.js:291:5)
+    at Function.handle (/app/node_modules/router/index.js:186:3)
+    at Function.handle (/app/node_modules/express/lib/application.js:177:15)
+    at Server.app (/app/node_modules/express/lib/express.js:38:9)
+    at Server.emit (node:events:517:28)
+2025-06-27T20:34:26.518Z [LOG] Checking for scheduled streams (2025-06-27T20:34:26.518Z to 2025-06-27T20:34:36.518Z)
+2025-06-27T20:34:26.549Z [LOG] Checking for scheduled streams (2025-06-27T20:34:26.549Z to 2025-06-27T20:34:36.549Z)
+2025-06-27T20:34:36.518Z [LOG] Checking for scheduled streams (2025-06-27T20:34:36.518Z to 2025-06-27T20:34:46.518Z)
+2025-06-27T20:34:36.549Z [LOG] Checking for scheduled streams (2025-06-27T20:34:36.549Z to 2025-06-27T20:34:46.549Z)
+2025-06-27T20:34:46.378Z [LOG] Checking for scheduled streams (2025-06-27T20:34:46.378Z to 2025-06-27T20:34:56.378Z)
+2025-06-27T20:34:46.399Z [LOG] Checking for scheduled streams (2025-06-27T20:34:46.399Z to 2025-06-27T20:34:56.399Z)
+2025-06-27T20:34:56.385Z [LOG] Checking for scheduled streams (2025-06-27T20:34:56.385Z to 2025-06-27T20:35:06.385Z)
+2025-06-27T20:34:56.399Z [LOG] Checking for scheduled streams (2025-06-27T20:34:56.399Z to 2025-06-27T20:35:06.399Z)
+2025-06-27T20:35:06.386Z [LOG] Checking for scheduled streams (2025-06-27T20:35:06.386Z to 2025-06-27T20:35:16.386Z)
+2025-06-27T20:35:06.399Z [LOG] Checking for scheduled streams (2025-06-27T20:35:06.399Z to 2025-06-27T20:35:16.399Z)
+2025-06-27T20:35:16.216Z [LOG] Checking for scheduled streams (2025-06-27T20:35:16.216Z to 2025-06-27T20:35:26.216Z)
+2025-06-27T20:35:16.227Z [LOG] Checking for scheduled streams (2025-06-27T20:35:16.227Z to 2025-06-27T20:35:26.227Z)
+2025-06-27T20:35:26.227Z [LOG] Checking for scheduled streams (2025-06-27T20:35:26.226Z to 2025-06-27T20:35:36.226Z)
+2025-06-27T20:35:26.230Z [LOG] Checking for scheduled streams (2025-06-27T20:35:26.230Z to 2025-06-27T20:35:36.230Z)
+2025-06-27T20:35:33.018Z [ERROR] Error: secret option required for sessions
+    at session (/app/node_modules/express-session/index.js:204:12)
+    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/app/node_modules/router/index.js:342:13)
+    at /app/node_modules/router/index.js:297:9
+    at processParams (/app/node_modules/router/index.js:582:12)
+    at next (/app/node_modules/router/index.js:291:5)
+    at Function.handle (/app/node_modules/router/index.js:186:3)
+    at Function.handle (/app/node_modules/express/lib/application.js:177:15)
+    at Server.app (/app/node_modules/express/lib/express.js:38:9)
+    at Server.emit (node:events:517:28)
+2025-06-27T20:35:35.617Z [ERROR] Error: secret option required for sessions
+    at session (/app/node_modules/express-session/index.js:204:12)
+    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/app/node_modules/router/index.js:342:13)
+    at /app/node_modules/router/index.js:297:9
+    at processParams (/app/node_modules/router/index.js:582:12)
+    at next (/app/node_modules/router/index.js:291:5)
+    at Function.handle (/app/node_modules/router/index.js:186:3)
+    at Function.handle (/app/node_modules/express/lib/application.js:177:15)
+    at Server.app (/app/node_modules/express/lib/express.js:38:9)
+    at Server.emit (node:events:517:28)
+2025-06-27T20:35:36.227Z [LOG] Checking for scheduled streams (2025-06-27T20:35:36.227Z to 2025-06-27T20:35:46.227Z)
+2025-06-27T20:35:36.230Z [LOG] Checking for scheduled streams (2025-06-27T20:35:36.230Z to 2025-06-27T20:35:46.230Z)
+2025-06-27T20:35:46.065Z [LOG] Checking for scheduled streams (2025-06-27T20:35:46.065Z to 2025-06-27T20:35:56.065Z)
+2025-06-27T20:35:46.068Z [LOG] Checking for scheduled streams (2025-06-27T20:35:46.067Z to 2025-06-27T20:35:56.067Z)
+2025-06-27T20:35:56.076Z [LOG] Checking for scheduled streams (2025-06-27T20:35:56.075Z to 2025-06-27T20:36:06.075Z)
+2025-06-27T20:35:56.080Z [LOG] Checking for scheduled streams (2025-06-27T20:35:56.079Z to 2025-06-27T20:36:06.079Z)
+2025-06-27T20:36:06.076Z [LOG] Checking for scheduled streams (2025-06-27T20:36:06.076Z to 2025-06-27T20:36:16.076Z)
+2025-06-27T20:36:06.080Z [LOG] Checking for scheduled streams (2025-06-27T20:36:06.080Z to 2025-06-27T20:36:16.080Z)
+2025-06-27T20:36:15.921Z [LOG] Checking for scheduled streams (2025-06-27T20:36:15.920Z to 2025-06-27T20:36:25.920Z)
+2025-06-27T20:36:15.927Z [LOG] Checking for scheduled streams (2025-06-27T20:36:15.926Z to 2025-06-27T20:36:25.926Z)
+2025-06-27T20:36:25.931Z [LOG] Checking for scheduled streams (2025-06-27T20:36:25.931Z to 2025-06-27T20:36:35.931Z)
+2025-06-27T20:36:25.934Z [LOG] Checking for scheduled streams (2025-06-27T20:36:25.933Z to 2025-06-27T20:36:35.933Z)
+2025-06-27T20:36:35.932Z [LOG] Checking for scheduled streams (2025-06-27T20:36:35.931Z to 2025-06-27T20:36:45.931Z)
+2025-06-27T20:36:35.934Z [LOG] Checking for scheduled streams (2025-06-27T20:36:35.934Z to 2025-06-27T20:36:45.934Z)
+2025-06-27T20:36:45.772Z [LOG] Checking for scheduled streams (2025-06-27T20:36:45.772Z to 2025-06-27T20:36:55.772Z)
+2025-06-27T20:36:45.778Z [LOG] Checking for scheduled streams (2025-06-27T20:36:45.777Z to 2025-06-27T20:36:55.777Z)
+2025-06-27T20:36:55.777Z [LOG] Checking for scheduled streams (2025-06-27T20:36:55.776Z to 2025-06-27T20:37:05.776Z)
+2025-06-27T20:36:55.779Z [LOG] Checking for scheduled streams (2025-06-27T20:36:55.779Z to 2025-06-27T20:37:05.779Z)
+2025-06-27T20:43:47.874Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T20:43:48.135Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T20:43:48.139Z [LOG] Stream scheduler initialized
+2025-06-27T20:43:48.148Z [LOG] Checking for scheduled streams (2025-06-27T20:43:48.148Z to 2025-06-27T20:43:58.148Z)
+2025-06-27T20:43:48.182Z [LOG] StreamFlow running at:
+2025-06-27T20:43:48.184Z [LOG]   http://172.18.0.2:7575
+2025-06-27T20:43:48.203Z [LOG] Stream scheduler initialized
+2025-06-27T20:43:48.205Z [LOG] Checking for scheduled streams (2025-06-27T20:43:48.205Z to 2025-06-27T20:43:58.205Z)
+2025-06-27T20:43:48.215Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T20:43:48.230Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T20:43:58.150Z [LOG] Checking for scheduled streams (2025-06-27T20:43:58.150Z to 2025-06-27T20:44:08.150Z)
+2025-06-27T20:43:58.205Z [LOG] Checking for scheduled streams (2025-06-27T20:43:58.205Z to 2025-06-27T20:44:08.205Z)
+2025-06-27T20:44:08.003Z [LOG] Checking for scheduled streams (2025-06-27T20:44:08.003Z to 2025-06-27T20:44:18.003Z)
+2025-06-27T20:44:08.048Z [LOG] Checking for scheduled streams (2025-06-27T20:44:08.048Z to 2025-06-27T20:44:18.048Z)
+2025-06-27T20:44:09.768Z [ERROR] Error: secret option required for sessions
+    at session (/app/node_modules/express-session/index.js:204:12)
+    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/app/node_modules/router/index.js:342:13)
+    at /app/node_modules/router/index.js:297:9
+    at processParams (/app/node_modules/router/index.js:582:12)
+    at next (/app/node_modules/router/index.js:291:5)
+    at Function.handle (/app/node_modules/router/index.js:186:3)
+    at Function.handle (/app/node_modules/express/lib/application.js:177:15)
+    at Server.app (/app/node_modules/express/lib/express.js:38:9)
+    at Server.emit (node:events:517:28)
+2025-06-27T20:44:18.006Z [LOG] Checking for scheduled streams (2025-06-27T20:44:18.006Z to 2025-06-27T20:44:28.006Z)
+2025-06-27T20:44:18.048Z [LOG] Checking for scheduled streams (2025-06-27T20:44:18.048Z to 2025-06-27T20:44:28.048Z)
+2025-06-27T20:44:28.018Z [LOG] Checking for scheduled streams (2025-06-27T20:44:28.018Z to 2025-06-27T20:44:38.018Z)
+2025-06-27T20:44:28.049Z [LOG] Checking for scheduled streams (2025-06-27T20:44:28.049Z to 2025-06-27T20:44:38.049Z)
+2025-06-27T20:44:37.876Z [LOG] Checking for scheduled streams (2025-06-27T20:44:37.876Z to 2025-06-27T20:44:47.876Z)
+2025-06-27T20:44:37.899Z [LOG] Checking for scheduled streams (2025-06-27T20:44:37.899Z to 2025-06-27T20:44:47.899Z)
+2025-06-27T20:45:16.912Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T20:45:17.165Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T20:45:17.167Z [LOG] Stream scheduler initialized
+2025-06-27T20:45:17.176Z [LOG] Checking for scheduled streams (2025-06-27T20:45:17.176Z to 2025-06-27T20:45:27.176Z)
+2025-06-27T20:45:17.209Z [LOG] StreamFlow running at:
+2025-06-27T20:45:17.211Z [LOG]   http://172.18.0.2:7575
+2025-06-27T20:45:17.233Z [LOG] Stream scheduler initialized
+2025-06-27T20:45:17.234Z [LOG] Checking for scheduled streams (2025-06-27T20:45:17.234Z to 2025-06-27T20:45:27.234Z)
+2025-06-27T20:45:17.244Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T20:45:17.260Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T20:45:27.178Z [LOG] Checking for scheduled streams (2025-06-27T20:45:27.178Z to 2025-06-27T20:45:37.178Z)
+2025-06-27T20:45:27.235Z [LOG] Checking for scheduled streams (2025-06-27T20:45:27.235Z to 2025-06-27T20:45:37.235Z)
+2025-06-27T20:45:37.188Z [LOG] Checking for scheduled streams (2025-06-27T20:45:37.188Z to 2025-06-27T20:45:47.188Z)
+2025-06-27T20:45:37.235Z [LOG] Checking for scheduled streams (2025-06-27T20:45:37.235Z to 2025-06-27T20:45:47.235Z)
+2025-06-27T20:45:47.027Z [LOG] Checking for scheduled streams (2025-06-27T20:45:47.026Z to 2025-06-27T20:45:57.026Z)
+2025-06-27T20:45:47.063Z [LOG] Checking for scheduled streams (2025-06-27T20:45:47.063Z to 2025-06-27T20:45:57.063Z)
+2025-06-27T20:45:57.028Z [LOG] Checking for scheduled streams (2025-06-27T20:45:57.028Z to 2025-06-27T20:46:07.028Z)
+2025-06-27T20:45:57.063Z [LOG] Checking for scheduled streams (2025-06-27T20:45:57.063Z to 2025-06-27T20:46:07.063Z)
+2025-06-27T20:46:07.039Z [LOG] Checking for scheduled streams (2025-06-27T20:46:07.039Z to 2025-06-27T20:46:17.039Z)
+2025-06-27T20:46:07.063Z [LOG] Checking for scheduled streams (2025-06-27T20:46:07.063Z to 2025-06-27T20:46:17.063Z)
+2025-06-27T20:46:16.865Z [LOG] Checking for scheduled streams (2025-06-27T20:46:16.864Z to 2025-06-27T20:46:26.864Z)
+2025-06-27T20:46:16.888Z [LOG] Checking for scheduled streams (2025-06-27T20:46:16.888Z to 2025-06-27T20:46:26.888Z)
+2025-06-27T20:46:26.875Z [LOG] Checking for scheduled streams (2025-06-27T20:46:26.875Z to 2025-06-27T20:46:36.875Z)
+2025-06-27T20:46:26.889Z [LOG] Checking for scheduled streams (2025-06-27T20:46:26.889Z to 2025-06-27T20:46:36.889Z)
+2025-06-27T20:46:36.885Z [LOG] Checking for scheduled streams (2025-06-27T20:46:36.885Z to 2025-06-27T20:46:46.885Z)
+2025-06-27T20:46:36.888Z [LOG] Checking for scheduled streams (2025-06-27T20:46:36.888Z to 2025-06-27T20:46:46.888Z)
+2025-06-27T20:46:46.708Z [LOG] Checking for scheduled streams (2025-06-27T20:46:46.708Z to 2025-06-27T20:46:56.708Z)
+2025-06-27T20:46:46.713Z [LOG] Checking for scheduled streams (2025-06-27T20:46:46.713Z to 2025-06-27T20:46:56.713Z)
+2025-06-27T20:46:56.713Z [LOG] Checking for scheduled streams (2025-06-27T20:46:56.713Z to 2025-06-27T20:47:06.713Z)
+2025-06-27T20:46:56.716Z [LOG] Checking for scheduled streams (2025-06-27T20:46:56.716Z to 2025-06-27T20:47:06.716Z)
+2025-06-27T20:47:06.727Z [LOG] Checking for scheduled streams (2025-06-27T20:47:06.727Z to 2025-06-27T20:47:16.727Z)
+2025-06-27T20:47:06.730Z [LOG] Checking for scheduled streams (2025-06-27T20:47:06.730Z to 2025-06-27T20:47:16.730Z)
+2025-06-27T20:47:16.571Z [LOG] Checking for scheduled streams (2025-06-27T20:47:16.571Z to 2025-06-27T20:47:26.571Z)
+2025-06-27T20:47:16.574Z [LOG] Checking for scheduled streams (2025-06-27T20:47:16.574Z to 2025-06-27T20:47:26.574Z)
+2025-06-27T20:47:26.582Z [LOG] Checking for scheduled streams (2025-06-27T20:47:26.582Z to 2025-06-27T20:47:36.582Z)
+2025-06-27T20:47:26.585Z [LOG] Checking for scheduled streams (2025-06-27T20:47:26.584Z to 2025-06-27T20:47:36.584Z)
+2025-06-27T20:47:36.583Z [LOG] Checking for scheduled streams (2025-06-27T20:47:36.583Z to 2025-06-27T20:47:46.583Z)
+2025-06-27T20:47:36.586Z [LOG] Checking for scheduled streams (2025-06-27T20:47:36.585Z to 2025-06-27T20:47:46.585Z)
+2025-06-27T20:47:46.423Z [LOG] Checking for scheduled streams (2025-06-27T20:47:46.422Z to 2025-06-27T20:47:56.422Z)
+2025-06-27T20:47:46.425Z [LOG] Checking for scheduled streams (2025-06-27T20:47:46.425Z to 2025-06-27T20:47:56.425Z)
+2025-06-27T20:47:56.433Z [LOG] Checking for scheduled streams (2025-06-27T20:47:56.433Z to 2025-06-27T20:48:06.433Z)
+2025-06-27T20:47:56.435Z [LOG] Checking for scheduled streams (2025-06-27T20:47:56.435Z to 2025-06-27T20:48:06.435Z)
+2025-06-27T20:48:06.439Z [LOG] Checking for scheduled streams (2025-06-27T20:48:06.439Z to 2025-06-27T20:48:16.439Z)
+2025-06-27T20:48:06.442Z [LOG] Checking for scheduled streams (2025-06-27T20:48:06.441Z to 2025-06-27T20:48:16.441Z)
+2025-06-27T20:48:16.264Z [LOG] Checking for scheduled streams (2025-06-27T20:48:16.264Z to 2025-06-27T20:48:26.264Z)
+2025-06-27T20:48:16.266Z [LOG] Checking for scheduled streams (2025-06-27T20:48:16.266Z to 2025-06-27T20:48:26.266Z)
+2025-06-27T20:48:26.269Z [LOG] Checking for scheduled streams (2025-06-27T20:48:26.269Z to 2025-06-27T20:48:36.269Z)
+2025-06-27T20:48:26.272Z [LOG] Checking for scheduled streams (2025-06-27T20:48:26.272Z to 2025-06-27T20:48:36.272Z)
+2025-06-27T20:48:36.278Z [LOG] Checking for scheduled streams (2025-06-27T20:48:36.277Z to 2025-06-27T20:48:46.277Z)
+2025-06-27T20:48:36.280Z [LOG] Checking for scheduled streams (2025-06-27T20:48:36.280Z to 2025-06-27T20:48:46.280Z)
+2025-06-27T20:48:46.127Z [LOG] Checking for scheduled streams (2025-06-27T20:48:46.127Z to 2025-06-27T20:48:56.127Z)
+2025-06-27T20:48:46.130Z [LOG] Checking for scheduled streams (2025-06-27T20:48:46.130Z to 2025-06-27T20:48:56.130Z)
+2025-06-27T20:48:56.128Z [LOG] Checking for scheduled streams (2025-06-27T20:48:56.128Z to 2025-06-27T20:49:06.128Z)
+2025-06-27T20:48:56.131Z [LOG] Checking for scheduled streams (2025-06-27T20:48:56.131Z to 2025-06-27T20:49:06.131Z)
+2025-06-27T20:49:06.140Z [LOG] Checking for scheduled streams (2025-06-27T20:49:06.140Z to 2025-06-27T20:49:16.140Z)
+2025-06-27T20:49:06.143Z [LOG] Checking for scheduled streams (2025-06-27T20:49:06.143Z to 2025-06-27T20:49:16.143Z)
+2025-06-27T20:49:15.984Z [LOG] Checking for scheduled streams (2025-06-27T20:49:15.984Z to 2025-06-27T20:49:25.984Z)
+2025-06-27T20:49:15.988Z [LOG] Checking for scheduled streams (2025-06-27T20:49:15.988Z to 2025-06-27T20:49:25.988Z)
+2025-06-27T20:49:25.995Z [LOG] Checking for scheduled streams (2025-06-27T20:49:25.995Z to 2025-06-27T20:49:35.995Z)
+2025-06-27T20:49:25.998Z [LOG] Checking for scheduled streams (2025-06-27T20:49:25.998Z to 2025-06-27T20:49:35.998Z)
+2025-06-27T20:49:36.006Z [LOG] Checking for scheduled streams (2025-06-27T20:49:36.006Z to 2025-06-27T20:49:46.006Z)
+2025-06-27T20:49:36.009Z [LOG] Checking for scheduled streams (2025-06-27T20:49:36.009Z to 2025-06-27T20:49:46.009Z)
+2025-06-27T20:49:45.638Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T20:49:45.901Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T20:49:45.904Z [LOG] Stream scheduler initialized
+2025-06-27T20:49:45.914Z [LOG] Checking for scheduled streams (2025-06-27T20:49:45.914Z to 2025-06-27T20:49:55.914Z)
+2025-06-27T20:49:45.946Z [LOG] StreamFlow running at:
+2025-06-27T20:49:45.948Z [LOG]   http://172.18.0.2:7575
+2025-06-27T20:49:45.972Z [LOG] Stream scheduler initialized
+2025-06-27T20:49:45.974Z [LOG] Checking for scheduled streams (2025-06-27T20:49:45.973Z to 2025-06-27T20:49:55.973Z)
+2025-06-27T20:49:45.984Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T20:49:45.997Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T20:49:55.915Z [LOG] Checking for scheduled streams (2025-06-27T20:49:55.915Z to 2025-06-27T20:50:05.915Z)
+2025-06-27T20:49:55.974Z [LOG] Checking for scheduled streams (2025-06-27T20:49:55.974Z to 2025-06-27T20:50:05.974Z)
+2025-06-27T20:50:05.927Z [LOG] Checking for scheduled streams (2025-06-27T20:50:05.927Z to 2025-06-27T20:50:15.927Z)
+2025-06-27T20:50:05.974Z [LOG] Checking for scheduled streams (2025-06-27T20:50:05.974Z to 2025-06-27T20:50:15.974Z)
+2025-06-27T20:50:15.757Z [LOG] Checking for scheduled streams (2025-06-27T20:50:15.756Z to 2025-06-27T20:50:25.756Z)
+2025-06-27T20:50:15.795Z [LOG] Checking for scheduled streams (2025-06-27T20:50:15.794Z to 2025-06-27T20:50:25.794Z)
+2025-06-27T20:50:25.759Z [LOG] Checking for scheduled streams (2025-06-27T20:50:25.759Z to 2025-06-27T20:50:35.759Z)
+2025-06-27T20:50:25.795Z [LOG] Checking for scheduled streams (2025-06-27T20:50:25.795Z to 2025-06-27T20:50:35.795Z)
+2025-06-27T20:50:35.769Z [LOG] Checking for scheduled streams (2025-06-27T20:50:35.768Z to 2025-06-27T20:50:45.768Z)
+2025-06-27T20:50:35.795Z [LOG] Checking for scheduled streams (2025-06-27T20:50:35.795Z to 2025-06-27T20:50:45.795Z)
+2025-06-27T20:50:45.599Z [LOG] Checking for scheduled streams (2025-06-27T20:50:45.599Z to 2025-06-27T20:50:55.599Z)
+2025-06-27T20:50:45.624Z [LOG] Checking for scheduled streams (2025-06-27T20:50:45.624Z to 2025-06-27T20:50:55.624Z)
+2025-06-27T20:50:55.609Z [LOG] Checking for scheduled streams (2025-06-27T20:50:55.609Z to 2025-06-27T20:51:05.609Z)
+2025-06-27T20:50:55.624Z [LOG] Checking for scheduled streams (2025-06-27T20:50:55.624Z to 2025-06-27T20:51:05.624Z)
+2025-06-27T20:51:05.617Z [LOG] Checking for scheduled streams (2025-06-27T20:51:05.617Z to 2025-06-27T20:51:15.617Z)
+2025-06-27T20:51:05.624Z [LOG] Checking for scheduled streams (2025-06-27T20:51:05.624Z to 2025-06-27T20:51:15.624Z)
+2025-06-27T20:51:15.454Z [LOG] Checking for scheduled streams (2025-06-27T20:51:15.454Z to 2025-06-27T20:51:25.454Z)
+2025-06-27T20:51:15.462Z [LOG] Checking for scheduled streams (2025-06-27T20:51:15.462Z to 2025-06-27T20:51:25.462Z)
+2025-06-27T21:09:08.733Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:09.437Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:10.153Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:11.056Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:12.358Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:14.491Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:18.199Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:25.091Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:09:38.167Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:10:04.045Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:10:55.541Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:26:19.582Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:26:19.812Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:26:19.814Z [LOG] Stream scheduler initialized
+2025-06-27T21:26:19.823Z [LOG] Checking for scheduled streams (2025-06-27T21:26:19.823Z to 2025-06-27T21:26:29.823Z)
+2025-06-27T21:26:19.856Z [LOG] StreamFlow running at:
+2025-06-27T21:26:19.857Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:26:19.876Z [LOG] Stream scheduler initialized
+2025-06-27T21:26:19.877Z [LOG] Checking for scheduled streams (2025-06-27T21:26:19.877Z to 2025-06-27T21:26:29.877Z)
+2025-06-27T21:26:19.887Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:26:19.899Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:26:29.824Z [LOG] Checking for scheduled streams (2025-06-27T21:26:29.824Z to 2025-06-27T21:26:39.824Z)
+2025-06-27T21:26:29.876Z [LOG] Checking for scheduled streams (2025-06-27T21:26:29.876Z to 2025-06-27T21:26:39.876Z)
+2025-06-27T21:26:39.832Z [LOG] Checking for scheduled streams (2025-06-27T21:26:39.832Z to 2025-06-27T21:26:49.832Z)
+2025-06-27T21:26:39.877Z [LOG] Checking for scheduled streams (2025-06-27T21:26:39.876Z to 2025-06-27T21:26:49.876Z)
+2025-06-27T21:26:49.603Z [LOG] Checking for scheduled streams (2025-06-27T21:26:49.603Z to 2025-06-27T21:26:59.603Z)
+2025-06-27T21:26:49.638Z [LOG] Checking for scheduled streams (2025-06-27T21:26:49.638Z to 2025-06-27T21:26:59.638Z)
+2025-06-27T21:26:59.611Z [LOG] Checking for scheduled streams (2025-06-27T21:26:59.611Z to 2025-06-27T21:27:09.611Z)
+2025-06-27T21:26:59.637Z [LOG] Checking for scheduled streams (2025-06-27T21:26:59.637Z to 2025-06-27T21:27:09.637Z)
+2025-06-27T21:26:59.904Z [LOG] User created successfully with ID: f547f670-8ed2-400c-a06c-51d49d33e600
+2025-06-27T21:27:09.617Z [LOG] Checking for scheduled streams (2025-06-27T21:27:09.617Z to 2025-06-27T21:27:19.617Z)
+2025-06-27T21:27:09.638Z [LOG] Checking for scheduled streams (2025-06-27T21:27:09.638Z to 2025-06-27T21:27:19.638Z)
+2025-06-27T21:27:19.383Z [LOG] Checking for scheduled streams (2025-06-27T21:27:19.383Z to 2025-06-27T21:27:29.383Z)
+2025-06-27T21:27:19.404Z [LOG] Checking for scheduled streams (2025-06-27T21:27:19.404Z to 2025-06-27T21:27:29.404Z)
+2025-06-27T21:27:29.389Z [LOG] Checking for scheduled streams (2025-06-27T21:27:29.389Z to 2025-06-27T21:27:39.389Z)
+2025-06-27T21:27:29.404Z [LOG] Checking for scheduled streams (2025-06-27T21:27:29.404Z to 2025-06-27T21:27:39.404Z)
+2025-06-27T21:27:39.390Z [LOG] Checking for scheduled streams (2025-06-27T21:27:39.390Z to 2025-06-27T21:27:49.390Z)
+2025-06-27T21:27:39.405Z [LOG] Checking for scheduled streams (2025-06-27T21:27:39.405Z to 2025-06-27T21:27:49.405Z)
+2025-06-27T21:27:49.151Z [LOG] Checking for scheduled streams (2025-06-27T21:27:49.151Z to 2025-06-27T21:27:59.151Z)
+2025-06-27T21:27:49.165Z [LOG] Checking for scheduled streams (2025-06-27T21:27:49.165Z to 2025-06-27T21:27:59.165Z)
+2025-06-27T21:28:28.751Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:28:28.972Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:28:28.975Z [LOG] Stream scheduler initialized
+2025-06-27T21:28:28.984Z [LOG] Checking for scheduled streams (2025-06-27T21:28:28.984Z to 2025-06-27T21:28:38.984Z)
+2025-06-27T21:28:29.016Z [LOG] StreamFlow running at:
+2025-06-27T21:28:29.018Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:28:29.038Z [LOG] Stream scheduler initialized
+2025-06-27T21:28:29.039Z [LOG] Checking for scheduled streams (2025-06-27T21:28:29.039Z to 2025-06-27T21:28:39.039Z)
+2025-06-27T21:28:29.049Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:28:29.064Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:28:38.985Z [LOG] Checking for scheduled streams (2025-06-27T21:28:38.985Z to 2025-06-27T21:28:48.985Z)
+2025-06-27T21:28:39.039Z [LOG] Checking for scheduled streams (2025-06-27T21:28:39.039Z to 2025-06-27T21:28:49.039Z)
+2025-06-27T21:28:48.759Z [LOG] Checking for scheduled streams (2025-06-27T21:28:48.759Z to 2025-06-27T21:28:58.759Z)
+2025-06-27T21:28:48.812Z [LOG] Checking for scheduled streams (2025-06-27T21:28:48.811Z to 2025-06-27T21:28:58.811Z)
+2025-06-27T21:28:58.767Z [LOG] Checking for scheduled streams (2025-06-27T21:28:58.767Z to 2025-06-27T21:29:08.767Z)
+2025-06-27T21:28:58.813Z [LOG] Checking for scheduled streams (2025-06-27T21:28:58.812Z to 2025-06-27T21:29:08.812Z)
+2025-06-27T21:29:08.769Z [LOG] Checking for scheduled streams (2025-06-27T21:29:08.769Z to 2025-06-27T21:29:18.769Z)
+2025-06-27T21:29:08.813Z [LOG] Checking for scheduled streams (2025-06-27T21:29:08.813Z to 2025-06-27T21:29:18.813Z)
+2025-06-27T21:29:18.550Z [LOG] Checking for scheduled streams (2025-06-27T21:29:18.550Z to 2025-06-27T21:29:28.550Z)
+2025-06-27T21:29:18.587Z [LOG] Checking for scheduled streams (2025-06-27T21:29:18.587Z to 2025-06-27T21:29:28.587Z)
+2025-06-27T21:29:28.550Z [LOG] Checking for scheduled streams (2025-06-27T21:29:28.550Z to 2025-06-27T21:29:38.550Z)
+2025-06-27T21:29:28.587Z [LOG] Checking for scheduled streams (2025-06-27T21:29:28.587Z to 2025-06-27T21:29:38.587Z)
+2025-06-27T21:29:38.554Z [LOG] Checking for scheduled streams (2025-06-27T21:29:38.554Z to 2025-06-27T21:29:48.554Z)
+2025-06-27T21:29:38.588Z [LOG] Checking for scheduled streams (2025-06-27T21:29:38.588Z to 2025-06-27T21:29:48.588Z)
+2025-06-27T21:29:48.330Z [LOG] Checking for scheduled streams (2025-06-27T21:29:48.330Z to 2025-06-27T21:29:58.330Z)
+2025-06-27T21:29:48.360Z [LOG] Checking for scheduled streams (2025-06-27T21:29:48.360Z to 2025-06-27T21:29:58.360Z)
+2025-06-27T21:29:58.332Z [LOG] Checking for scheduled streams (2025-06-27T21:29:58.331Z to 2025-06-27T21:30:08.331Z)
+2025-06-27T21:29:58.361Z [LOG] Checking for scheduled streams (2025-06-27T21:29:58.360Z to 2025-06-27T21:30:08.360Z)
+2025-06-27T21:30:08.346Z [LOG] Checking for scheduled streams (2025-06-27T21:30:08.346Z to 2025-06-27T21:30:18.346Z)
+2025-06-27T21:30:08.361Z [LOG] Checking for scheduled streams (2025-06-27T21:30:08.361Z to 2025-06-27T21:30:18.361Z)
+2025-06-27T21:30:18.120Z [LOG] Checking for scheduled streams (2025-06-27T21:30:18.120Z to 2025-06-27T21:30:28.120Z)
+2025-06-27T21:30:18.126Z [LOG] Checking for scheduled streams (2025-06-27T21:30:18.126Z to 2025-06-27T21:30:28.126Z)
+2025-06-27T21:30:28.120Z [LOG] Checking for scheduled streams (2025-06-27T21:30:28.120Z to 2025-06-27T21:30:38.120Z)
+2025-06-27T21:30:28.126Z [LOG] Checking for scheduled streams (2025-06-27T21:30:28.126Z to 2025-06-27T21:30:38.126Z)
+2025-06-27T21:30:38.132Z [LOG] Checking for scheduled streams (2025-06-27T21:30:38.132Z to 2025-06-27T21:30:48.132Z)
+2025-06-27T21:30:38.140Z [LOG] Checking for scheduled streams (2025-06-27T21:30:38.140Z to 2025-06-27T21:30:48.140Z)
+2025-06-27T21:30:47.922Z [LOG] Checking for scheduled streams (2025-06-27T21:30:47.921Z to 2025-06-27T21:30:57.921Z)
+2025-06-27T21:30:47.929Z [LOG] Checking for scheduled streams (2025-06-27T21:30:47.929Z to 2025-06-27T21:30:57.929Z)
+2025-06-27T21:31:37.022Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:31:37.241Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:31:37.243Z [LOG] Stream scheduler initialized
+2025-06-27T21:31:37.253Z [LOG] Checking for scheduled streams (2025-06-27T21:31:37.253Z to 2025-06-27T21:31:47.253Z)
+2025-06-27T21:31:37.287Z [LOG] StreamFlow running at:
+2025-06-27T21:31:37.289Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:31:37.310Z [LOG] Stream scheduler initialized
+2025-06-27T21:31:37.311Z [LOG] Checking for scheduled streams (2025-06-27T21:31:37.311Z to 2025-06-27T21:31:47.311Z)
+2025-06-27T21:31:37.320Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:31:37.335Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:31:47.056Z [LOG] Checking for scheduled streams (2025-06-27T21:31:47.056Z to 2025-06-27T21:31:57.056Z)
+2025-06-27T21:31:47.112Z [LOG] Checking for scheduled streams (2025-06-27T21:31:47.112Z to 2025-06-27T21:31:57.112Z)
+2025-06-27T21:31:57.058Z [LOG] Checking for scheduled streams (2025-06-27T21:31:57.057Z to 2025-06-27T21:32:07.057Z)
+2025-06-27T21:31:57.114Z [LOG] Checking for scheduled streams (2025-06-27T21:31:57.114Z to 2025-06-27T21:32:07.114Z)
+2025-06-27T21:32:07.059Z [LOG] Checking for scheduled streams (2025-06-27T21:32:07.058Z to 2025-06-27T21:32:17.058Z)
+2025-06-27T21:32:07.114Z [LOG] Checking for scheduled streams (2025-06-27T21:32:07.114Z to 2025-06-27T21:32:17.114Z)
+2025-06-27T21:32:16.816Z [LOG] Checking for scheduled streams (2025-06-27T21:32:16.816Z to 2025-06-27T21:32:26.816Z)
+2025-06-27T21:32:16.872Z [LOG] Checking for scheduled streams (2025-06-27T21:32:16.872Z to 2025-06-27T21:32:26.872Z)
+2025-06-27T21:32:26.822Z [LOG] Checking for scheduled streams (2025-06-27T21:32:26.822Z to 2025-06-27T21:32:36.822Z)
+2025-06-27T21:32:26.872Z [LOG] Checking for scheduled streams (2025-06-27T21:32:26.871Z to 2025-06-27T21:32:36.871Z)
+2025-06-27T21:32:36.824Z [LOG] Checking for scheduled streams (2025-06-27T21:32:36.824Z to 2025-06-27T21:32:46.824Z)
+2025-06-27T21:32:36.872Z [LOG] Checking for scheduled streams (2025-06-27T21:32:36.872Z to 2025-06-27T21:32:46.872Z)
+2025-06-27T21:32:46.618Z [LOG] Checking for scheduled streams (2025-06-27T21:32:46.618Z to 2025-06-27T21:32:56.618Z)
+2025-06-27T21:32:46.659Z [LOG] Checking for scheduled streams (2025-06-27T21:32:46.658Z to 2025-06-27T21:32:56.658Z)
+2025-06-27T21:32:56.622Z [LOG] Checking for scheduled streams (2025-06-27T21:32:56.622Z to 2025-06-27T21:33:06.622Z)
+2025-06-27T21:32:56.659Z [LOG] Checking for scheduled streams (2025-06-27T21:32:56.659Z to 2025-06-27T21:33:06.659Z)
+2025-06-27T21:33:06.634Z [LOG] Checking for scheduled streams (2025-06-27T21:33:06.633Z to 2025-06-27T21:33:16.633Z)
+2025-06-27T21:33:06.659Z [LOG] Checking for scheduled streams (2025-06-27T21:33:06.659Z to 2025-06-27T21:33:16.659Z)
+2025-06-27T21:33:16.407Z [LOG] Checking for scheduled streams (2025-06-27T21:33:16.407Z to 2025-06-27T21:33:26.407Z)
+2025-06-27T21:33:16.424Z [LOG] Checking for scheduled streams (2025-06-27T21:33:16.424Z to 2025-06-27T21:33:26.424Z)
+2025-06-27T21:33:26.418Z [LOG] Checking for scheduled streams (2025-06-27T21:33:26.417Z to 2025-06-27T21:33:36.417Z)
+2025-06-27T21:33:26.425Z [LOG] Checking for scheduled streams (2025-06-27T21:33:26.425Z to 2025-06-27T21:33:36.425Z)
+2025-06-27T21:33:36.418Z [LOG] Checking for scheduled streams (2025-06-27T21:33:36.418Z to 2025-06-27T21:33:46.418Z)
+2025-06-27T21:33:36.425Z [LOG] Checking for scheduled streams (2025-06-27T21:33:36.424Z to 2025-06-27T21:33:46.424Z)
+2025-06-27T21:33:46.209Z [LOG] Checking for scheduled streams (2025-06-27T21:33:46.208Z to 2025-06-27T21:33:56.208Z)
+2025-06-27T21:33:46.217Z [LOG] Checking for scheduled streams (2025-06-27T21:33:46.216Z to 2025-06-27T21:33:56.216Z)
+2025-06-27T21:33:56.216Z [LOG] Checking for scheduled streams (2025-06-27T21:33:56.216Z to 2025-06-27T21:34:06.216Z)
+2025-06-27T21:33:56.218Z [LOG] Checking for scheduled streams (2025-06-27T21:33:56.218Z to 2025-06-27T21:34:06.218Z)
+2025-06-27T21:34:06.216Z [LOG] Checking for scheduled streams (2025-06-27T21:34:06.216Z to 2025-06-27T21:34:16.216Z)
+2025-06-27T21:34:06.219Z [LOG] Checking for scheduled streams (2025-06-27T21:34:06.219Z to 2025-06-27T21:34:16.219Z)
+2025-06-27T21:34:16.013Z [LOG] Checking for scheduled streams (2025-06-27T21:34:16.013Z to 2025-06-27T21:34:26.013Z)
+2025-06-27T21:34:16.021Z [LOG] Checking for scheduled streams (2025-06-27T21:34:16.020Z to 2025-06-27T21:34:26.020Z)
+2025-06-27T21:34:26.023Z [LOG] Checking for scheduled streams (2025-06-27T21:34:26.022Z to 2025-06-27T21:34:36.022Z)
+2025-06-27T21:34:26.029Z [LOG] Checking for scheduled streams (2025-06-27T21:34:26.028Z to 2025-06-27T21:34:36.028Z)
+2025-06-27T21:34:36.022Z [LOG] Checking for scheduled streams (2025-06-27T21:34:36.022Z to 2025-06-27T21:34:46.022Z)
+2025-06-27T21:34:36.028Z [LOG] Checking for scheduled streams (2025-06-27T21:34:36.028Z to 2025-06-27T21:34:46.028Z)
+2025-06-27T21:34:45.804Z [LOG] Checking for scheduled streams (2025-06-27T21:34:45.804Z to 2025-06-27T21:34:55.804Z)
+2025-06-27T21:34:45.812Z [LOG] Checking for scheduled streams (2025-06-27T21:34:45.812Z to 2025-06-27T21:34:55.812Z)
+2025-06-27T21:34:55.805Z [LOG] Checking for scheduled streams (2025-06-27T21:34:55.804Z to 2025-06-27T21:35:05.804Z)
+2025-06-27T21:34:55.812Z [LOG] Checking for scheduled streams (2025-06-27T21:34:55.812Z to 2025-06-27T21:35:05.812Z)
+2025-06-27T21:35:05.805Z [LOG] Checking for scheduled streams (2025-06-27T21:35:05.805Z to 2025-06-27T21:35:15.805Z)
+2025-06-27T21:35:05.812Z [LOG] Checking for scheduled streams (2025-06-27T21:35:05.812Z to 2025-06-27T21:35:15.812Z)
+2025-06-27T21:35:15.579Z [LOG] Checking for scheduled streams (2025-06-27T21:35:15.579Z to 2025-06-27T21:35:25.579Z)
+2025-06-27T21:35:15.587Z [LOG] Checking for scheduled streams (2025-06-27T21:35:15.587Z to 2025-06-27T21:35:25.587Z)
+2025-06-27T21:35:25.585Z [LOG] Checking for scheduled streams (2025-06-27T21:35:25.584Z to 2025-06-27T21:35:35.584Z)
+2025-06-27T21:35:25.588Z [LOG] Checking for scheduled streams (2025-06-27T21:35:25.588Z to 2025-06-27T21:35:35.588Z)
+2025-06-27T21:35:35.585Z [LOG] Checking for scheduled streams (2025-06-27T21:35:35.585Z to 2025-06-27T21:35:45.585Z)
+2025-06-27T21:35:35.588Z [LOG] Checking for scheduled streams (2025-06-27T21:35:35.588Z to 2025-06-27T21:35:45.588Z)
+2025-06-27T21:35:45.350Z [LOG] Checking for scheduled streams (2025-06-27T21:35:45.350Z to 2025-06-27T21:35:55.350Z)
+2025-06-27T21:35:45.354Z [LOG] Checking for scheduled streams (2025-06-27T21:35:45.353Z to 2025-06-27T21:35:55.353Z)
+2025-06-27T21:35:55.362Z [LOG] Checking for scheduled streams (2025-06-27T21:35:55.361Z to 2025-06-27T21:36:05.361Z)
+2025-06-27T21:35:55.364Z [LOG] Checking for scheduled streams (2025-06-27T21:35:55.364Z to 2025-06-27T21:36:05.364Z)
+2025-06-27T21:36:05.362Z [LOG] Checking for scheduled streams (2025-06-27T21:36:05.361Z to 2025-06-27T21:36:15.361Z)
+2025-06-27T21:36:05.364Z [LOG] Checking for scheduled streams (2025-06-27T21:36:05.364Z to 2025-06-27T21:36:15.364Z)
+2025-06-27T21:36:15.128Z [LOG] Checking for scheduled streams (2025-06-27T21:36:15.128Z to 2025-06-27T21:36:25.128Z)
+2025-06-27T21:36:15.131Z [LOG] Checking for scheduled streams (2025-06-27T21:36:15.130Z to 2025-06-27T21:36:25.130Z)
+2025-06-27T21:36:25.130Z [LOG] Checking for scheduled streams (2025-06-27T21:36:25.129Z to 2025-06-27T21:36:35.129Z)
+2025-06-27T21:36:25.132Z [LOG] Checking for scheduled streams (2025-06-27T21:36:25.132Z to 2025-06-27T21:36:35.132Z)
+2025-06-27T21:36:34.997Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:36:35.006Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:36:35.130Z [LOG] Checking for scheduled streams (2025-06-27T21:36:35.130Z to 2025-06-27T21:36:45.130Z)
+2025-06-27T21:36:35.134Z [LOG] Checking for scheduled streams (2025-06-27T21:36:35.134Z to 2025-06-27T21:36:45.134Z)
+2025-06-27T21:36:44.924Z [LOG] Checking for scheduled streams (2025-06-27T21:36:44.924Z to 2025-06-27T21:36:54.924Z)
+2025-06-27T21:36:44.926Z [LOG] Checking for scheduled streams (2025-06-27T21:36:44.926Z to 2025-06-27T21:36:54.926Z)
+2025-06-27T21:36:54.935Z [LOG] Checking for scheduled streams (2025-06-27T21:36:54.935Z to 2025-06-27T21:37:04.935Z)
+2025-06-27T21:36:54.943Z [LOG] Checking for scheduled streams (2025-06-27T21:36:54.943Z to 2025-06-27T21:37:04.943Z)
+2025-06-27T21:37:04.936Z [LOG] Checking for scheduled streams (2025-06-27T21:37:04.935Z to 2025-06-27T21:37:14.935Z)
+2025-06-27T21:37:04.943Z [LOG] Checking for scheduled streams (2025-06-27T21:37:04.943Z to 2025-06-27T21:37:14.943Z)
+2025-06-27T21:37:14.717Z [LOG] Checking for scheduled streams (2025-06-27T21:37:14.717Z to 2025-06-27T21:37:24.717Z)
+2025-06-27T21:37:14.719Z [LOG] Checking for scheduled streams (2025-06-27T21:37:14.719Z to 2025-06-27T21:37:24.719Z)
+2025-06-27T21:37:24.728Z [LOG] Checking for scheduled streams (2025-06-27T21:37:24.727Z to 2025-06-27T21:37:34.727Z)
+2025-06-27T21:37:24.733Z [LOG] Checking for scheduled streams (2025-06-27T21:37:24.733Z to 2025-06-27T21:37:34.733Z)
+2025-06-27T21:37:34.729Z [LOG] Checking for scheduled streams (2025-06-27T21:37:34.729Z to 2025-06-27T21:37:44.729Z)
+2025-06-27T21:37:34.732Z [LOG] Checking for scheduled streams (2025-06-27T21:37:34.732Z to 2025-06-27T21:37:44.732Z)
+2025-06-27T21:37:44.524Z [LOG] Checking for scheduled streams (2025-06-27T21:37:44.524Z to 2025-06-27T21:37:54.524Z)
+2025-06-27T21:37:44.528Z [LOG] Checking for scheduled streams (2025-06-27T21:37:44.528Z to 2025-06-27T21:37:54.528Z)
+2025-06-27T21:37:54.527Z [LOG] Checking for scheduled streams (2025-06-27T21:37:54.527Z to 2025-06-27T21:38:04.527Z)
+2025-06-27T21:37:54.532Z [LOG] Checking for scheduled streams (2025-06-27T21:37:54.532Z to 2025-06-27T21:38:04.532Z)
+2025-06-27T21:38:04.527Z [LOG] Checking for scheduled streams (2025-06-27T21:38:04.527Z to 2025-06-27T21:38:14.527Z)
+2025-06-27T21:38:04.532Z [LOG] Checking for scheduled streams (2025-06-27T21:38:04.532Z to 2025-06-27T21:38:14.532Z)
+2025-06-27T21:38:14.310Z [LOG] Checking for scheduled streams (2025-06-27T21:38:14.310Z to 2025-06-27T21:38:24.310Z)
+2025-06-27T21:38:14.312Z [LOG] Checking for scheduled streams (2025-06-27T21:38:14.312Z to 2025-06-27T21:38:24.312Z)
+2025-06-27T21:38:24.316Z [LOG] Checking for scheduled streams (2025-06-27T21:38:24.316Z to 2025-06-27T21:38:34.316Z)
+2025-06-27T21:38:24.325Z [LOG] Checking for scheduled streams (2025-06-27T21:38:24.324Z to 2025-06-27T21:38:34.324Z)
+2025-06-27T21:38:34.317Z [LOG] Checking for scheduled streams (2025-06-27T21:38:34.317Z to 2025-06-27T21:38:44.317Z)
+2025-06-27T21:38:34.325Z [LOG] Checking for scheduled streams (2025-06-27T21:38:34.325Z to 2025-06-27T21:38:44.325Z)
+2025-06-27T21:38:44.089Z [LOG] Checking for scheduled streams (2025-06-27T21:38:44.089Z to 2025-06-27T21:38:54.089Z)
+2025-06-27T21:38:44.093Z [LOG] Checking for scheduled streams (2025-06-27T21:38:44.092Z to 2025-06-27T21:38:54.092Z)
+2025-06-27T21:38:54.096Z [LOG] Checking for scheduled streams (2025-06-27T21:38:54.096Z to 2025-06-27T21:39:04.096Z)
+2025-06-27T21:38:54.100Z [LOG] Checking for scheduled streams (2025-06-27T21:38:54.100Z to 2025-06-27T21:39:04.100Z)
+2025-06-27T21:39:04.097Z [LOG] Checking for scheduled streams (2025-06-27T21:39:04.096Z to 2025-06-27T21:39:14.096Z)
+2025-06-27T21:39:04.099Z [LOG] Checking for scheduled streams (2025-06-27T21:39:04.099Z to 2025-06-27T21:39:14.099Z)
+2025-06-27T21:39:13.897Z [LOG] Checking for scheduled streams (2025-06-27T21:39:13.897Z to 2025-06-27T21:39:23.897Z)
+2025-06-27T21:39:13.902Z [LOG] Checking for scheduled streams (2025-06-27T21:39:13.902Z to 2025-06-27T21:39:23.902Z)
+2025-06-27T21:39:23.908Z [LOG] Checking for scheduled streams (2025-06-27T21:39:23.908Z to 2025-06-27T21:39:33.908Z)
+2025-06-27T21:39:23.912Z [LOG] Checking for scheduled streams (2025-06-27T21:39:23.912Z to 2025-06-27T21:39:33.912Z)
+2025-06-27T21:39:33.910Z [LOG] Checking for scheduled streams (2025-06-27T21:39:33.910Z to 2025-06-27T21:39:43.910Z)
+2025-06-27T21:39:33.913Z [LOG] Checking for scheduled streams (2025-06-27T21:39:33.913Z to 2025-06-27T21:39:43.913Z)
+2025-06-27T21:39:43.689Z [LOG] Checking for scheduled streams (2025-06-27T21:39:43.689Z to 2025-06-27T21:39:53.689Z)
+2025-06-27T21:39:43.692Z [LOG] Checking for scheduled streams (2025-06-27T21:39:43.692Z to 2025-06-27T21:39:53.692Z)
+2025-06-27T21:39:53.700Z [LOG] Checking for scheduled streams (2025-06-27T21:39:53.700Z to 2025-06-27T21:40:03.700Z)
+2025-06-27T21:39:53.703Z [LOG] Checking for scheduled streams (2025-06-27T21:39:53.703Z to 2025-06-27T21:40:03.703Z)
+2025-06-27T21:40:03.702Z [LOG] Checking for scheduled streams (2025-06-27T21:40:03.702Z to 2025-06-27T21:40:13.702Z)
+2025-06-27T21:40:03.708Z [LOG] Checking for scheduled streams (2025-06-27T21:40:03.708Z to 2025-06-27T21:40:13.708Z)
+2025-06-27T21:40:13.508Z [LOG] Checking for scheduled streams (2025-06-27T21:40:13.508Z to 2025-06-27T21:40:23.508Z)
+2025-06-27T21:40:13.516Z [LOG] Checking for scheduled streams (2025-06-27T21:40:13.516Z to 2025-06-27T21:40:23.516Z)
+2025-06-27T21:40:18.121Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:40:18.498Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:40:18.500Z [LOG] Stream scheduler initialized
+2025-06-27T21:40:18.510Z [LOG] Checking for scheduled streams (2025-06-27T21:40:18.510Z to 2025-06-27T21:40:28.510Z)
+2025-06-27T21:40:18.539Z [LOG] StreamFlow running at:
+2025-06-27T21:40:18.541Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:40:18.563Z [LOG] Stream scheduler initialized
+2025-06-27T21:40:18.564Z [LOG] Checking for scheduled streams (2025-06-27T21:40:18.564Z to 2025-06-27T21:40:28.564Z)
+2025-06-27T21:40:18.574Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:40:18.589Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:40:28.512Z [LOG] Checking for scheduled streams (2025-06-27T21:40:28.512Z to 2025-06-27T21:40:38.512Z)
+2025-06-27T21:40:28.564Z [LOG] Checking for scheduled streams (2025-06-27T21:40:28.564Z to 2025-06-27T21:40:38.564Z)
+2025-06-27T21:40:38.512Z [LOG] Checking for scheduled streams (2025-06-27T21:40:38.512Z to 2025-06-27T21:40:48.512Z)
+2025-06-27T21:40:38.564Z [LOG] Checking for scheduled streams (2025-06-27T21:40:38.564Z to 2025-06-27T21:40:48.564Z)
+2025-06-27T21:40:48.304Z [LOG] Checking for scheduled streams (2025-06-27T21:40:48.304Z to 2025-06-27T21:40:58.304Z)
+2025-06-27T21:40:48.357Z [LOG] Checking for scheduled streams (2025-06-27T21:40:48.356Z to 2025-06-27T21:40:58.356Z)
+2025-06-27T21:40:58.306Z [LOG] Checking for scheduled streams (2025-06-27T21:40:58.306Z to 2025-06-27T21:41:08.306Z)
+2025-06-27T21:40:58.358Z [LOG] Checking for scheduled streams (2025-06-27T21:40:58.358Z to 2025-06-27T21:41:08.358Z)
+2025-06-27T21:41:08.318Z [LOG] Checking for scheduled streams (2025-06-27T21:41:08.318Z to 2025-06-27T21:41:18.318Z)
+2025-06-27T21:41:08.358Z [LOG] Checking for scheduled streams (2025-06-27T21:41:08.358Z to 2025-06-27T21:41:18.358Z)
+2025-06-27T21:41:18.112Z [LOG] Checking for scheduled streams (2025-06-27T21:41:18.112Z to 2025-06-27T21:41:28.112Z)
+2025-06-27T21:41:18.152Z [LOG] Checking for scheduled streams (2025-06-27T21:41:18.152Z to 2025-06-27T21:41:28.152Z)
+2025-06-27T21:41:28.119Z [LOG] Checking for scheduled streams (2025-06-27T21:41:28.119Z to 2025-06-27T21:41:38.119Z)
+2025-06-27T21:41:28.153Z [LOG] Checking for scheduled streams (2025-06-27T21:41:28.153Z to 2025-06-27T21:41:38.153Z)
+2025-06-27T21:41:38.119Z [LOG] Checking for scheduled streams (2025-06-27T21:41:38.119Z to 2025-06-27T21:41:48.119Z)
+2025-06-27T21:41:38.153Z [LOG] Checking for scheduled streams (2025-06-27T21:41:38.153Z to 2025-06-27T21:41:48.153Z)
+2025-06-27T21:41:47.897Z [LOG] Checking for scheduled streams (2025-06-27T21:41:47.897Z to 2025-06-27T21:41:57.897Z)
+2025-06-27T21:41:47.923Z [LOG] Checking for scheduled streams (2025-06-27T21:41:47.923Z to 2025-06-27T21:41:57.923Z)
+2025-06-27T21:41:57.900Z [LOG] Checking for scheduled streams (2025-06-27T21:41:57.900Z to 2025-06-27T21:42:07.900Z)
+2025-06-27T21:41:57.923Z [LOG] Checking for scheduled streams (2025-06-27T21:41:57.922Z to 2025-06-27T21:42:07.922Z)
+2025-06-27T21:42:07.911Z [LOG] Checking for scheduled streams (2025-06-27T21:42:07.911Z to 2025-06-27T21:42:17.911Z)
+2025-06-27T21:42:07.923Z [LOG] Checking for scheduled streams (2025-06-27T21:42:07.923Z to 2025-06-27T21:42:17.923Z)
+2025-06-27T21:42:17.697Z [LOG] Checking for scheduled streams (2025-06-27T21:42:17.697Z to 2025-06-27T21:42:27.697Z)
+2025-06-27T21:42:17.709Z [LOG] Checking for scheduled streams (2025-06-27T21:42:17.709Z to 2025-06-27T21:42:27.709Z)
+2025-06-27T21:42:27.707Z [LOG] Checking for scheduled streams (2025-06-27T21:42:27.707Z to 2025-06-27T21:42:37.707Z)
+2025-06-27T21:42:27.710Z [LOG] Checking for scheduled streams (2025-06-27T21:42:27.710Z to 2025-06-27T21:42:37.710Z)
+2025-06-27T21:42:37.719Z [LOG] Checking for scheduled streams (2025-06-27T21:42:37.719Z to 2025-06-27T21:42:47.719Z)
+2025-06-27T21:42:37.722Z [LOG] Checking for scheduled streams (2025-06-27T21:42:37.722Z to 2025-06-27T21:42:47.722Z)
+2025-06-27T21:42:47.521Z [LOG] Checking for scheduled streams (2025-06-27T21:42:47.521Z to 2025-06-27T21:42:57.521Z)
+2025-06-27T21:42:47.529Z [LOG] Checking for scheduled streams (2025-06-27T21:42:47.529Z to 2025-06-27T21:42:57.529Z)
+2025-06-27T21:42:57.532Z [LOG] Checking for scheduled streams (2025-06-27T21:42:57.532Z to 2025-06-27T21:43:07.532Z)
+2025-06-27T21:42:57.534Z [LOG] Checking for scheduled streams (2025-06-27T21:42:57.534Z to 2025-06-27T21:43:07.534Z)
+2025-06-27T21:43:07.541Z [LOG] Checking for scheduled streams (2025-06-27T21:43:07.540Z to 2025-06-27T21:43:17.540Z)
+2025-06-27T21:43:07.549Z [LOG] Checking for scheduled streams (2025-06-27T21:43:07.549Z to 2025-06-27T21:43:17.549Z)
+2025-06-27T21:43:17.314Z [LOG] Checking for scheduled streams (2025-06-27T21:43:17.314Z to 2025-06-27T21:43:27.314Z)
+2025-06-27T21:43:17.324Z [LOG] Checking for scheduled streams (2025-06-27T21:43:17.323Z to 2025-06-27T21:43:27.323Z)
+2025-06-27T21:43:27.323Z [LOG] Checking for scheduled streams (2025-06-27T21:43:27.322Z to 2025-06-27T21:43:37.322Z)
+2025-06-27T21:43:27.325Z [LOG] Checking for scheduled streams (2025-06-27T21:43:27.325Z to 2025-06-27T21:43:37.325Z)
+2025-06-27T21:43:37.333Z [LOG] Checking for scheduled streams (2025-06-27T21:43:37.333Z to 2025-06-27T21:43:47.333Z)
+2025-06-27T21:43:37.336Z [LOG] Checking for scheduled streams (2025-06-27T21:43:37.336Z to 2025-06-27T21:43:47.336Z)
+2025-06-27T21:43:47.115Z [LOG] Checking for scheduled streams (2025-06-27T21:43:47.114Z to 2025-06-27T21:43:57.114Z)
+2025-06-27T21:43:47.123Z [LOG] Checking for scheduled streams (2025-06-27T21:43:47.123Z to 2025-06-27T21:43:57.123Z)
+2025-06-27T21:43:54.737Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:43:55.115Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:43:55.116Z [LOG] Stream scheduler initialized
+2025-06-27T21:43:55.126Z [LOG] Checking for scheduled streams (2025-06-27T21:43:55.126Z to 2025-06-27T21:44:05.126Z)
+2025-06-27T21:43:55.155Z [LOG] StreamFlow running at:
+2025-06-27T21:43:55.157Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:43:55.179Z [LOG] Stream scheduler initialized
+2025-06-27T21:43:55.180Z [LOG] Checking for scheduled streams (2025-06-27T21:43:55.180Z to 2025-06-27T21:44:05.180Z)
+2025-06-27T21:43:55.190Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:43:55.205Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:44:05.129Z [LOG] Checking for scheduled streams (2025-06-27T21:44:05.128Z to 2025-06-27T21:44:15.128Z)
+2025-06-27T21:44:05.180Z [LOG] Checking for scheduled streams (2025-06-27T21:44:05.180Z to 2025-06-27T21:44:15.180Z)
+2025-06-27T21:44:14.902Z [LOG] Checking for scheduled streams (2025-06-27T21:44:14.901Z to 2025-06-27T21:44:24.901Z)
+2025-06-27T21:44:14.952Z [LOG] Checking for scheduled streams (2025-06-27T21:44:14.952Z to 2025-06-27T21:44:24.952Z)
+2025-06-27T21:44:24.907Z [LOG] Checking for scheduled streams (2025-06-27T21:44:24.907Z to 2025-06-27T21:44:34.907Z)
+2025-06-27T21:44:24.952Z [LOG] Checking for scheduled streams (2025-06-27T21:44:24.952Z to 2025-06-27T21:44:34.952Z)
+2025-06-27T21:44:34.918Z [LOG] Checking for scheduled streams (2025-06-27T21:44:34.918Z to 2025-06-27T21:44:44.918Z)
+2025-06-27T21:44:34.952Z [LOG] Checking for scheduled streams (2025-06-27T21:44:34.952Z to 2025-06-27T21:44:44.952Z)
+2025-06-27T21:44:44.698Z [LOG] Checking for scheduled streams (2025-06-27T21:44:44.698Z to 2025-06-27T21:44:54.698Z)
+2025-06-27T21:44:44.723Z [LOG] Checking for scheduled streams (2025-06-27T21:44:44.722Z to 2025-06-27T21:44:54.722Z)
+2025-06-27T21:44:54.699Z [LOG] Checking for scheduled streams (2025-06-27T21:44:54.699Z to 2025-06-27T21:45:04.699Z)
+2025-06-27T21:44:54.723Z [LOG] Checking for scheduled streams (2025-06-27T21:44:54.723Z to 2025-06-27T21:45:04.723Z)
+2025-06-27T21:45:04.708Z [LOG] Checking for scheduled streams (2025-06-27T21:45:04.708Z to 2025-06-27T21:45:14.708Z)
+2025-06-27T21:45:04.723Z [LOG] Checking for scheduled streams (2025-06-27T21:45:04.723Z to 2025-06-27T21:45:14.723Z)
+2025-06-27T21:45:14.494Z [LOG] Checking for scheduled streams (2025-06-27T21:45:14.494Z to 2025-06-27T21:45:24.494Z)
+2025-06-27T21:45:14.508Z [LOG] Checking for scheduled streams (2025-06-27T21:45:14.508Z to 2025-06-27T21:45:24.508Z)
+2025-06-27T21:45:24.494Z [LOG] Checking for scheduled streams (2025-06-27T21:45:24.494Z to 2025-06-27T21:45:34.494Z)
+2025-06-27T21:45:24.508Z [LOG] Checking for scheduled streams (2025-06-27T21:45:24.508Z to 2025-06-27T21:45:34.508Z)
+2025-06-27T21:45:34.504Z [LOG] Checking for scheduled streams (2025-06-27T21:45:34.504Z to 2025-06-27T21:45:44.504Z)
+2025-06-27T21:45:34.508Z [LOG] Checking for scheduled streams (2025-06-27T21:45:34.508Z to 2025-06-27T21:45:44.508Z)
+2025-06-27T21:45:44.293Z [LOG] Checking for scheduled streams (2025-06-27T21:45:44.293Z to 2025-06-27T21:45:54.293Z)
+2025-06-27T21:45:44.296Z [LOG] Checking for scheduled streams (2025-06-27T21:45:44.295Z to 2025-06-27T21:45:54.295Z)
+2025-06-27T21:45:54.293Z [LOG] Checking for scheduled streams (2025-06-27T21:45:54.293Z to 2025-06-27T21:46:04.293Z)
+2025-06-27T21:45:54.297Z [LOG] Checking for scheduled streams (2025-06-27T21:45:54.297Z to 2025-06-27T21:46:04.297Z)
+2025-06-27T21:46:04.296Z [LOG] Checking for scheduled streams (2025-06-27T21:46:04.296Z to 2025-06-27T21:46:14.296Z)
+2025-06-27T21:46:04.299Z [LOG] Checking for scheduled streams (2025-06-27T21:46:04.299Z to 2025-06-27T21:46:14.299Z)
+2025-06-27T21:46:08.071Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'JerjAgNq7goQTvwbGKzpSk2AzvEfJS6L',
+  1751147168065,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:08.065Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"495538a4-6a55-4a84-92ce-f9f4d9aaca08"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.redirect (/app/node_modules/express/lib/response.js:854:10)
+    at /app/app.js:416:7
+2025-06-27T21:46:08.080Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'iGuOnFxQ175vr5_iKC31TxejtDbGx_yh',
+  1751147168076,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:08.076Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"f09f5374-641a-4ea3-ba9c-4aeead38ca93"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.redirect (/app/node_modules/express/lib/response.js:854:10)
+    at isAuthenticated (/app/app.js:217:7)
+2025-06-27T21:46:08.106Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  '8evrVflTqliNZkSBxDahwTN02n8kxGT-',
+  1751147168102,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:08.102Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"64b4d95a-6938-4fbf-9efd-a8389569726a"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.send (/app/node_modules/express/lib/response.js:219:10)
+    at done (/app/node_modules/express/lib/response.js:905:10)
+2025-06-27T21:46:08.151Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  '86NeM7lufXQv75jx4mP01wQTqw7CUFw_',
+  1751147168147,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:08.147Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"67e80583-09d3-418f-bade-7ff1992ccdf9"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ReadStream.onend (node:internal/streams/readable:948:10)
+    at Object.onceWrapper (node:events:632:28)
+2025-06-27T21:46:08.157Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'E6kBmzgUk_CggGFmaLtOjZTJsm9RJnsb',
+  1751147168154,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:08.154Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"e4bc78cf-e54f-42ce-b6d9-686f260eea2b"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ReadStream.onend (node:internal/streams/readable:948:10)
+    at Object.onceWrapper (node:events:632:28)
+2025-06-27T21:46:10.798Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'V3KEI2M2YjtfqKu2PAZTQ_A2EPsXt0i1',
+  1751147170796,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:10.796Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"bf814fba-e551-4b40-9eb7-97979ee5f511"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.send (/app/node_modules/express/lib/response.js:219:10)
+    at done (/app/node_modules/express/lib/response.js:905:10)
+2025-06-27T21:46:10.819Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'zz6LsVK3ohBDfRUcr63sHIFDUCNaufXd',
+  1751147170816,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:10.816Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"ce5ecfc5-5120-46a0-a927-f63a28977e7d"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at SendStream.notModified (/app/node_modules/send/index.js:274:7)
+    at SendStream.send (/app/node_modules/send/index.js:521:12)
+2025-06-27T21:46:10.824Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'kEkKTJefR-9aCXpPEExgvzGUCQsJNG7_',
+  1751147170821,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:10.821Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"3d55b495-4808-48c7-829a-eb0d4afe4bbc"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at SendStream.notModified (/app/node_modules/send/index.js:274:7)
+    at SendStream.send (/app/node_modules/send/index.js:521:12)
+2025-06-27T21:46:14.084Z [LOG] Checking for scheduled streams (2025-06-27T21:46:14.084Z to 2025-06-27T21:46:24.084Z)
+2025-06-27T21:46:14.087Z [LOG] Checking for scheduled streams (2025-06-27T21:46:14.087Z to 2025-06-27T21:46:24.087Z)
+2025-06-27T21:46:24.085Z [LOG] Checking for scheduled streams (2025-06-27T21:46:24.085Z to 2025-06-27T21:46:34.085Z)
+2025-06-27T21:46:24.088Z [LOG] Checking for scheduled streams (2025-06-27T21:46:24.087Z to 2025-06-27T21:46:34.087Z)
+2025-06-27T21:46:24.414Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'UXlP8_f4pf9eMYG1gpy8KA_4bTT0hl6X',
+  1751147184410,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:24.410Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"49215ea8-05b1-435b-a71f-59fdc0144ab5"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.redirect (/app/node_modules/express/lib/response.js:854:10)
+    at /app/app.js:416:7
+2025-06-27T21:46:24.423Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'UmQjIF6q6iIaPfDASIV2oH2K3gx7VoCO',
+  1751147184420,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:24.420Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"89c1beaf-24ec-44b5-975d-968c1cc07547"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.redirect (/app/node_modules/express/lib/response.js:854:10)
+    at isAuthenticated (/app/app.js:217:7)
+2025-06-27T21:46:24.440Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'pxvt54ghhgpCQ0ajWVWfDZwaKXSTGPwC',
+  1751147184437,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:24.437Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"4d195b5b-1e72-40e3-a20e-28616bae5672"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.send (/app/node_modules/express/lib/response.js:219:10)
+    at done (/app/node_modules/express/lib/response.js:905:10)
+2025-06-27T21:46:24.480Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'lgMUbkUkxS_9CNyKy3Il1zm1ORLvKdy8',
+  1751147184476,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:24.476Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"59109c28-8893-4614-92d7-e6645f807e31"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ReadStream.onend (node:internal/streams/readable:948:10)
+    at Object.onceWrapper (node:events:632:28)
+2025-06-27T21:46:24.572Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  '2960WBRKzSTeS8l1jlSx8HG2Z5Xhtng6',
+  1751147184569,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:24.569Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"b5b6efb5-f969-42de-84be-729cf9fccc0c"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ReadStream.onend (node:internal/streams/readable:948:10)
+    at Object.onceWrapper (node:events:632:28)
+2025-06-27T21:46:28.316Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  '89Q6tjjKJx7to9sVwM-tYEh6uGSt1fI_',
+  1751147188311,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:28.311Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"1920615c-143e-4e0d-9aa3-bf5fb73da15d","userId":"f547f670-8ed2-400c-a06c-51d49d33e600","username":"admin"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.redirect (/app/node_modules/express/lib/response.js:854:10)
+    at /app/app.js:299:9
+2025-06-27T21:46:28.322Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'mrwt0DMqqD2jRmcbVr1nGoOIUZ_FNuW9',
+  1751147188319,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:28.319Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"7a2b14da-b90e-4890-8773-92abbd6bf661"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.redirect (/app/node_modules/express/lib/response.js:854:10)
+    at isAuthenticated (/app/app.js:217:7)
+2025-06-27T21:46:28.344Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'hFJ9owryOTrq5gbED1LWODidDb4Hh7Il',
+  1751147188341,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:28.341Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"abd6cdd5-7ea2-4103-8c94-c1723cc87457"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at ServerResponse.send (/app/node_modules/express/lib/response.js:219:10)
+    at done (/app/node_modules/express/lib/response.js:905:10)
+2025-06-27T21:46:28.373Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'QNA5mmRNQCFXcwMRRQvTM4OAQDvaVy6l',
+  1751147188369,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:28.369Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"c3e9e340-1a57-45a2-9bf1-f4be463b69d3"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at SendStream.notModified (/app/node_modules/send/index.js:274:7)
+    at SendStream.send (/app/node_modules/send/index.js:521:12)
+2025-06-27T21:46:28.388Z [ERROR] Error: SQLITE_READONLY: attempt to write a readonly database
+--> in Statement#all([
+  'Ww-ikQ1MuL6lrE6he2h3oRApWs5XKlNh',
+  1751147188385,
+  '{"cookie":{"originalMaxAge":86400000,"expires":"2025-06-28T21:46:28.385Z","secure":true,"httpOnly":true,"path":"/"},"csrfSecret":"26bfb6e2-98a0-41fe-85b8-f8f1fc4d5e4b"}'
+], [Function: replacement])
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:88:19)
+    at Database.<anonymous> (/app/node_modules/sqlite3/lib/sqlite3.js:20:19)
+    at SQLiteStore.set (/app/node_modules/connect-sqlite3/lib/connect-sqlite3.js:128:21)
+    at Session.save (/app/node_modules/express-session/session/session.js:72:25)
+    at Session.save (/app/node_modules/express-session/index.js:414:15)
+    at ServerResponse.end (/app/node_modules/express-session/index.js:343:21)
+    at SendStream.notModified (/app/node_modules/send/index.js:274:7)
+    at SendStream.send (/app/node_modules/send/index.js:521:12)
+2025-06-27T21:46:34.087Z [LOG] Checking for scheduled streams (2025-06-27T21:46:34.087Z to 2025-06-27T21:46:44.087Z)
+2025-06-27T21:46:34.090Z [LOG] Checking for scheduled streams (2025-06-27T21:46:34.090Z to 2025-06-27T21:46:44.090Z)
+2025-06-27T21:46:40.556Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:46:40.896Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:46:40.897Z [LOG] Stream scheduler initialized
+2025-06-27T21:46:40.916Z [LOG] Checking for scheduled streams (2025-06-27T21:46:40.916Z to 2025-06-27T21:46:50.916Z)
+2025-06-27T21:46:40.956Z [LOG] StreamFlow running at:
+2025-06-27T21:46:40.958Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:46:40.989Z [LOG] Stream scheduler initialized
+2025-06-27T21:46:40.994Z [LOG] Checking for scheduled streams (2025-06-27T21:46:40.994Z to 2025-06-27T21:46:50.994Z)
+2025-06-27T21:46:41.013Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:46:41.037Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:46:50.917Z [LOG] Checking for scheduled streams (2025-06-27T21:46:50.917Z to 2025-06-27T21:47:00.917Z)
+2025-06-27T21:46:50.995Z [LOG] Checking for scheduled streams (2025-06-27T21:46:50.995Z to 2025-06-27T21:47:00.995Z)
+2025-06-27T21:46:57.235Z [LOG] User created successfully with ID: 517d0d4f-2c78-4a60-aad3-fc8ca5c1de76
+2025-06-27T21:47:00.918Z [LOG] Checking for scheduled streams (2025-06-27T21:47:00.918Z to 2025-06-27T21:47:10.918Z)
+2025-06-27T21:47:00.997Z [LOG] Checking for scheduled streams (2025-06-27T21:47:00.996Z to 2025-06-27T21:47:10.996Z)
+2025-06-27T21:47:10.709Z [LOG] Checking for scheduled streams (2025-06-27T21:47:10.709Z to 2025-06-27T21:47:20.709Z)
+2025-06-27T21:47:10.786Z [LOG] Checking for scheduled streams (2025-06-27T21:47:10.786Z to 2025-06-27T21:47:20.786Z)
+2025-06-27T21:47:20.718Z [LOG] Checking for scheduled streams (2025-06-27T21:47:20.718Z to 2025-06-27T21:47:30.718Z)
+2025-06-27T21:47:20.786Z [LOG] Checking for scheduled streams (2025-06-27T21:47:20.786Z to 2025-06-27T21:47:30.786Z)
+2025-06-27T21:47:30.725Z [LOG] Checking for scheduled streams (2025-06-27T21:47:30.725Z to 2025-06-27T21:47:40.725Z)
+2025-06-27T21:47:30.787Z [LOG] Checking for scheduled streams (2025-06-27T21:47:30.787Z to 2025-06-27T21:47:40.787Z)
+2025-06-27T21:47:40.527Z [LOG] Checking for scheduled streams (2025-06-27T21:47:40.527Z to 2025-06-27T21:47:50.527Z)
+2025-06-27T21:47:40.589Z [LOG] Checking for scheduled streams (2025-06-27T21:47:40.589Z to 2025-06-27T21:47:50.589Z)
+2025-06-27T21:47:50.533Z [LOG] Checking for scheduled streams (2025-06-27T21:47:50.533Z to 2025-06-27T21:48:00.533Z)
+2025-06-27T21:47:50.590Z [LOG] Checking for scheduled streams (2025-06-27T21:47:50.590Z to 2025-06-27T21:48:00.590Z)
+2025-06-27T21:48:00.543Z [LOG] Checking for scheduled streams (2025-06-27T21:48:00.542Z to 2025-06-27T21:48:10.542Z)
+2025-06-27T21:48:00.591Z [LOG] Checking for scheduled streams (2025-06-27T21:48:00.591Z to 2025-06-27T21:48:10.591Z)
+2025-06-27T21:48:10.353Z [LOG] Checking for scheduled streams (2025-06-27T21:48:10.353Z to 2025-06-27T21:48:20.353Z)
+2025-06-27T21:48:10.393Z [LOG] Checking for scheduled streams (2025-06-27T21:48:10.393Z to 2025-06-27T21:48:20.393Z)
+2025-06-27T21:48:20.355Z [LOG] Checking for scheduled streams (2025-06-27T21:48:20.355Z to 2025-06-27T21:48:30.355Z)
+2025-06-27T21:48:20.392Z [LOG] Checking for scheduled streams (2025-06-27T21:48:20.392Z to 2025-06-27T21:48:30.392Z)
+2025-06-27T21:48:30.363Z [LOG] Checking for scheduled streams (2025-06-27T21:48:30.363Z to 2025-06-27T21:48:40.363Z)
+2025-06-27T21:48:30.393Z [LOG] Checking for scheduled streams (2025-06-27T21:48:30.393Z to 2025-06-27T21:48:40.393Z)
+2025-06-27T21:48:40.142Z [LOG] Checking for scheduled streams (2025-06-27T21:48:40.142Z to 2025-06-27T21:48:50.142Z)
+2025-06-27T21:48:40.172Z [LOG] Checking for scheduled streams (2025-06-27T21:48:40.172Z to 2025-06-27T21:48:50.172Z)
+2025-06-27T21:48:50.152Z [LOG] Checking for scheduled streams (2025-06-27T21:48:50.152Z to 2025-06-27T21:49:00.152Z)
+2025-06-27T21:48:50.173Z [LOG] Checking for scheduled streams (2025-06-27T21:48:50.173Z to 2025-06-27T21:49:00.173Z)
+2025-06-27T21:49:00.168Z [LOG] Checking for scheduled streams (2025-06-27T21:49:00.168Z to 2025-06-27T21:49:10.168Z)
+2025-06-27T21:49:00.174Z [LOG] Checking for scheduled streams (2025-06-27T21:49:00.173Z to 2025-06-27T21:49:10.173Z)
+2025-06-27T21:49:09.956Z [LOG] Checking for scheduled streams (2025-06-27T21:49:09.956Z to 2025-06-27T21:49:19.956Z)
+2025-06-27T21:49:09.961Z [LOG] Checking for scheduled streams (2025-06-27T21:49:09.961Z to 2025-06-27T21:49:19.961Z)
+2025-06-27T21:49:19.966Z [LOG] Checking for scheduled streams (2025-06-27T21:49:19.966Z to 2025-06-27T21:49:29.966Z)
+2025-06-27T21:49:19.972Z [LOG] Checking for scheduled streams (2025-06-27T21:49:19.972Z to 2025-06-27T21:49:29.972Z)
+2025-06-27T21:49:29.969Z [LOG] Checking for scheduled streams (2025-06-27T21:49:29.969Z to 2025-06-27T21:49:39.969Z)
+2025-06-27T21:49:29.972Z [LOG] Checking for scheduled streams (2025-06-27T21:49:29.972Z to 2025-06-27T21:49:39.972Z)
+2025-06-27T21:49:39.782Z [LOG] Checking for scheduled streams (2025-06-27T21:49:39.782Z to 2025-06-27T21:49:49.782Z)
+2025-06-27T21:49:39.787Z [LOG] Checking for scheduled streams (2025-06-27T21:49:39.787Z to 2025-06-27T21:49:49.787Z)
+2025-06-27T21:49:49.786Z [LOG] Checking for scheduled streams (2025-06-27T21:49:49.785Z to 2025-06-27T21:49:59.785Z)
+2025-06-27T21:49:49.788Z [LOG] Checking for scheduled streams (2025-06-27T21:49:49.788Z to 2025-06-27T21:49:59.788Z)
+2025-06-27T21:49:59.788Z [LOG] Checking for scheduled streams (2025-06-27T21:49:59.788Z to 2025-06-27T21:50:09.788Z)
+2025-06-27T21:49:59.791Z [LOG] Checking for scheduled streams (2025-06-27T21:49:59.791Z to 2025-06-27T21:50:09.791Z)
+2025-06-27T21:50:09.578Z [LOG] Checking for scheduled streams (2025-06-27T21:50:09.577Z to 2025-06-27T21:50:19.577Z)
+2025-06-27T21:50:09.586Z [LOG] Checking for scheduled streams (2025-06-27T21:50:09.585Z to 2025-06-27T21:50:19.585Z)
+2025-06-27T21:50:19.580Z [LOG] Checking for scheduled streams (2025-06-27T21:50:19.580Z to 2025-06-27T21:50:29.580Z)
+2025-06-27T21:50:19.586Z [LOG] Checking for scheduled streams (2025-06-27T21:50:19.585Z to 2025-06-27T21:50:29.585Z)
+2025-06-27T21:50:29.590Z [LOG] Checking for scheduled streams (2025-06-27T21:50:29.590Z to 2025-06-27T21:50:39.590Z)
+2025-06-27T21:50:29.593Z [LOG] Checking for scheduled streams (2025-06-27T21:50:29.593Z to 2025-06-27T21:50:39.593Z)
+2025-06-27T21:51:30.348Z [LOG] Logger initialized. Output will be written to console and logs/app.log
+2025-06-27T21:51:30.741Z [LOG] Using system FFmpeg at: /usr/bin/ffmpeg
+2025-06-27T21:51:30.743Z [LOG] Stream scheduler initialized
+2025-06-27T21:51:30.752Z [LOG] Checking for scheduled streams (2025-06-27T21:51:30.752Z to 2025-06-27T21:51:40.752Z)
+2025-06-27T21:51:30.781Z [LOG] StreamFlow running at:
+2025-06-27T21:51:30.782Z [LOG]   http://172.18.0.2:7575
+2025-06-27T21:51:30.802Z [LOG] Stream scheduler initialized
+2025-06-27T21:51:30.804Z [LOG] Checking for scheduled streams (2025-06-27T21:51:30.804Z to 2025-06-27T21:51:40.804Z)
+2025-06-27T21:51:30.814Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:51:30.827Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:51:40.528Z [LOG] Checking for scheduled streams (2025-06-27T21:51:40.527Z to 2025-06-27T21:51:50.527Z)
+2025-06-27T21:51:40.580Z [LOG] Checking for scheduled streams (2025-06-27T21:51:40.580Z to 2025-06-27T21:51:50.580Z)
+2025-06-27T21:51:50.530Z [LOG] Checking for scheduled streams (2025-06-27T21:51:50.530Z to 2025-06-27T21:52:00.530Z)
+2025-06-27T21:51:50.580Z [LOG] Checking for scheduled streams (2025-06-27T21:51:50.580Z to 2025-06-27T21:52:00.580Z)
+2025-06-27T21:52:00.541Z [LOG] Checking for scheduled streams (2025-06-27T21:52:00.541Z to 2025-06-27T21:52:10.541Z)
+2025-06-27T21:52:00.579Z [LOG] Checking for scheduled streams (2025-06-27T21:52:00.579Z to 2025-06-27T21:52:10.579Z)
+2025-06-27T21:52:10.349Z [LOG] Checking for scheduled streams (2025-06-27T21:52:10.348Z to 2025-06-27T21:52:20.348Z)
+2025-06-27T21:52:10.384Z [LOG] Checking for scheduled streams (2025-06-27T21:52:10.384Z to 2025-06-27T21:52:20.384Z)
+2025-06-27T21:52:20.353Z [LOG] Checking for scheduled streams (2025-06-27T21:52:20.352Z to 2025-06-27T21:52:30.352Z)
+2025-06-27T21:52:20.385Z [LOG] Checking for scheduled streams (2025-06-27T21:52:20.385Z to 2025-06-27T21:52:30.385Z)
+2025-06-27T21:52:30.352Z [LOG] Checking for scheduled streams (2025-06-27T21:52:30.352Z to 2025-06-27T21:52:40.352Z)
+2025-06-27T21:52:30.386Z [LOG] Checking for scheduled streams (2025-06-27T21:52:30.385Z to 2025-06-27T21:52:40.385Z)
+2025-06-27T21:52:40.127Z [LOG] Checking for scheduled streams (2025-06-27T21:52:40.127Z to 2025-06-27T21:52:50.127Z)
+2025-06-27T21:52:40.161Z [LOG] Checking for scheduled streams (2025-06-27T21:52:40.161Z to 2025-06-27T21:52:50.161Z)
+2025-06-27T21:52:50.137Z [LOG] Checking for scheduled streams (2025-06-27T21:52:50.137Z to 2025-06-27T21:53:00.137Z)
+2025-06-27T21:52:50.161Z [LOG] Checking for scheduled streams (2025-06-27T21:52:50.161Z to 2025-06-27T21:53:00.161Z)
+2025-06-27T21:53:00.138Z [LOG] Checking for scheduled streams (2025-06-27T21:53:00.138Z to 2025-06-27T21:53:10.138Z)
+2025-06-27T21:53:00.161Z [LOG] Checking for scheduled streams (2025-06-27T21:53:00.161Z to 2025-06-27T21:53:10.161Z)
+2025-06-27T21:53:09.951Z [LOG] Checking for scheduled streams (2025-06-27T21:53:09.950Z to 2025-06-27T21:53:19.950Z)
+2025-06-27T21:53:09.972Z [LOG] Checking for scheduled streams (2025-06-27T21:53:09.972Z to 2025-06-27T21:53:19.972Z)
+2025-06-27T21:53:19.962Z [LOG] Checking for scheduled streams (2025-06-27T21:53:19.961Z to 2025-06-27T21:53:29.961Z)
+2025-06-27T21:53:19.973Z [LOG] Checking for scheduled streams (2025-06-27T21:53:19.973Z to 2025-06-27T21:53:29.973Z)
+2025-06-27T21:53:29.961Z [LOG] Checking for scheduled streams (2025-06-27T21:53:29.961Z to 2025-06-27T21:53:39.961Z)
+2025-06-27T21:53:29.974Z [LOG] Checking for scheduled streams (2025-06-27T21:53:29.973Z to 2025-06-27T21:53:39.973Z)
+2025-06-27T21:53:39.751Z [LOG] Checking for scheduled streams (2025-06-27T21:53:39.751Z to 2025-06-27T21:53:49.751Z)
+2025-06-27T21:53:39.756Z [LOG] Checking for scheduled streams (2025-06-27T21:53:39.756Z to 2025-06-27T21:53:49.756Z)
+2025-06-27T21:53:49.766Z [LOG] Checking for scheduled streams (2025-06-27T21:53:49.765Z to 2025-06-27T21:53:59.765Z)
+2025-06-27T21:53:49.767Z [LOG] Checking for scheduled streams (2025-06-27T21:53:49.767Z to 2025-06-27T21:53:59.767Z)
+2025-06-27T21:53:59.767Z [LOG] Checking for scheduled streams (2025-06-27T21:53:59.767Z to 2025-06-27T21:54:09.767Z)
+2025-06-27T21:53:59.775Z [LOG] Checking for scheduled streams (2025-06-27T21:53:59.775Z to 2025-06-27T21:54:09.775Z)
+2025-06-27T21:54:09.582Z [LOG] Checking for scheduled streams (2025-06-27T21:54:09.582Z to 2025-06-27T21:54:19.582Z)
+2025-06-27T21:54:09.585Z [LOG] Checking for scheduled streams (2025-06-27T21:54:09.585Z to 2025-06-27T21:54:19.585Z)
+2025-06-27T21:54:19.592Z [LOG] Checking for scheduled streams (2025-06-27T21:54:19.592Z to 2025-06-27T21:54:29.592Z)
+2025-06-27T21:54:19.595Z [LOG] Checking for scheduled streams (2025-06-27T21:54:19.595Z to 2025-06-27T21:54:29.595Z)
+2025-06-27T21:54:29.593Z [LOG] Checking for scheduled streams (2025-06-27T21:54:29.593Z to 2025-06-27T21:54:39.593Z)
+2025-06-27T21:54:29.599Z [LOG] Checking for scheduled streams (2025-06-27T21:54:29.599Z to 2025-06-27T21:54:39.599Z)
+2025-06-27T21:54:39.386Z [LOG] Checking for scheduled streams (2025-06-27T21:54:39.386Z to 2025-06-27T21:54:49.386Z)
+2025-06-27T21:54:39.391Z [LOG] Checking for scheduled streams (2025-06-27T21:54:39.391Z to 2025-06-27T21:54:49.391Z)
+2025-06-27T21:54:49.388Z [LOG] Checking for scheduled streams (2025-06-27T21:54:49.388Z to 2025-06-27T21:54:59.388Z)
+2025-06-27T21:54:49.391Z [LOG] Checking for scheduled streams (2025-06-27T21:54:49.391Z to 2025-06-27T21:54:59.391Z)
+2025-06-27T21:54:59.389Z [LOG] Checking for scheduled streams (2025-06-27T21:54:59.389Z to 2025-06-27T21:55:09.389Z)
+2025-06-27T21:54:59.391Z [LOG] Checking for scheduled streams (2025-06-27T21:54:59.391Z to 2025-06-27T21:55:09.391Z)
+2025-06-27T21:55:09.196Z [LOG] Checking for scheduled streams (2025-06-27T21:55:09.196Z to 2025-06-27T21:55:19.196Z)
+2025-06-27T21:55:09.205Z [LOG] Checking for scheduled streams (2025-06-27T21:55:09.205Z to 2025-06-27T21:55:19.205Z)
+2025-06-27T21:55:19.200Z [LOG] Checking for scheduled streams (2025-06-27T21:55:19.200Z to 2025-06-27T21:55:29.200Z)
+2025-06-27T21:55:19.207Z [LOG] Checking for scheduled streams (2025-06-27T21:55:19.207Z to 2025-06-27T21:55:29.207Z)
+2025-06-27T21:55:29.201Z [LOG] Checking for scheduled streams (2025-06-27T21:55:29.201Z to 2025-06-27T21:55:39.201Z)
+2025-06-27T21:55:29.207Z [LOG] Checking for scheduled streams (2025-06-27T21:55:29.207Z to 2025-06-27T21:55:39.207Z)
+2025-06-27T21:55:38.991Z [LOG] Checking for scheduled streams (2025-06-27T21:55:38.991Z to 2025-06-27T21:55:48.991Z)
+2025-06-27T21:55:38.996Z [LOG] Checking for scheduled streams (2025-06-27T21:55:38.996Z to 2025-06-27T21:55:48.996Z)
+2025-06-27T21:55:48.993Z [LOG] Checking for scheduled streams (2025-06-27T21:55:48.992Z to 2025-06-27T21:55:58.992Z)
+2025-06-27T21:55:48.999Z [LOG] Checking for scheduled streams (2025-06-27T21:55:48.999Z to 2025-06-27T21:55:58.999Z)
+2025-06-27T21:55:58.995Z [LOG] Checking for scheduled streams (2025-06-27T21:55:58.994Z to 2025-06-27T21:56:08.994Z)
+2025-06-27T21:55:59.002Z [LOG] Checking for scheduled streams (2025-06-27T21:55:59.002Z to 2025-06-27T21:56:09.002Z)
+2025-06-27T21:56:08.790Z [LOG] Checking for scheduled streams (2025-06-27T21:56:08.789Z to 2025-06-27T21:56:18.789Z)
+2025-06-27T21:56:08.793Z [LOG] Checking for scheduled streams (2025-06-27T21:56:08.793Z to 2025-06-27T21:56:18.793Z)
+2025-06-27T21:56:18.800Z [LOG] Checking for scheduled streams (2025-06-27T21:56:18.800Z to 2025-06-27T21:56:28.800Z)
+2025-06-27T21:56:18.803Z [LOG] Checking for scheduled streams (2025-06-27T21:56:18.802Z to 2025-06-27T21:56:28.802Z)
+2025-06-27T21:56:28.683Z [LOG] [StreamingService] Syncing stream statuses...
+2025-06-27T21:56:28.687Z [LOG] [StreamingService] Stream status sync completed. Active streams: 0
+2025-06-27T21:56:28.801Z [LOG] Checking for scheduled streams (2025-06-27T21:56:28.801Z to 2025-06-27T21:56:38.801Z)
+2025-06-27T21:56:28.803Z [LOG] Checking for scheduled streams (2025-06-27T21:56:28.803Z to 2025-06-27T21:56:38.803Z)
+2025-06-27T21:56:38.618Z [LOG] Checking for scheduled streams (2025-06-27T21:56:38.618Z to 2025-06-27T21:56:48.618Z)
+2025-06-27T21:56:38.622Z [LOG] Checking for scheduled streams (2025-06-27T21:56:38.622Z to 2025-06-27T21:56:48.622Z)
+2025-06-27T21:56:48.631Z [LOG] Checking for scheduled streams (2025-06-27T21:56:48.631Z to 2025-06-27T21:56:58.631Z)
+2025-06-27T21:56:48.636Z [LOG] Checking for scheduled streams (2025-06-27T21:56:48.636Z to 2025-06-27T21:56:58.636Z)
+2025-06-27T21:56:58.632Z [LOG] Checking for scheduled streams (2025-06-27T21:56:58.631Z to 2025-06-27T21:57:08.631Z)
+2025-06-27T21:56:58.637Z [LOG] Checking for scheduled streams (2025-06-27T21:56:58.637Z to 2025-06-27T21:57:08.637Z)
+2025-06-27T21:57:08.417Z [LOG] Checking for scheduled streams (2025-06-27T21:57:08.417Z to 2025-06-27T21:57:18.417Z)
+2025-06-27T21:57:08.426Z [LOG] Checking for scheduled streams (2025-06-27T21:57:08.425Z to 2025-06-27T21:57:18.425Z)
+2025-06-27T21:57:18.418Z [LOG] Checking for scheduled streams (2025-06-27T21:57:18.418Z to 2025-06-27T21:57:28.418Z)
+2025-06-27T21:57:18.425Z [LOG] Checking for scheduled streams (2025-06-27T21:57:18.425Z to 2025-06-27T21:57:28.425Z)
+2025-06-27T21:57:28.419Z [LOG] Checking for scheduled streams (2025-06-27T21:57:28.419Z to 2025-06-27T21:57:38.419Z)
+2025-06-27T21:57:28.426Z [LOG] Checking for scheduled streams (2025-06-27T21:57:28.425Z to 2025-06-27T21:57:38.425Z)
